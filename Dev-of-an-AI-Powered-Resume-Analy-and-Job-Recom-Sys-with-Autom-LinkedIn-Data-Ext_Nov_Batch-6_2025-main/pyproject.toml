@@ -1,0 +1,20 @@
+[project]
+name = "resumeanalysis"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "bcrypt==5.0.0",
+    "kaleido==0.2.1",
+    "ollama>=0.0.50",
+    "pandas>=2.0.0",
+    "plotly==5.18.0",
+    "pypdf2==3.0.1",
+    "python-docx==1.2.0",
+    "python-dotenv==0.21.0",
+    "reportlab>=4.0.0",
+    "requests==2.31.0",
+    "selenium==4.39.0",
+    "streamlit==1.52.0",
+]
